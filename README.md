@@ -9,3 +9,9 @@ Full join
 Inner join
 <br>
 Self join
+<br>
+Left exclusive join
+<br>
+Right exclusive join
+<br>
+Full exclusive join
